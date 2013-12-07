@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Texts</id>
+    <title>Texts</title>
+    <version>0.17.1.0</version>
+    <authors>Text Software Limited</authors>
+    <owners>Ishan</owners>
+    <summary>Texts — Markdown Editor for Mac OS X, Windows and iOS</summary>
+    <description>TEXTS is rich editor for plain text. Write structured documents. Store in plain text. Publish to many formats.</description>
+    <projectUrl>http://www.texts.io/</projectUrl>
+    <tags>texts text markdown editor preview admin</tags>
+    <copyright></copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://raw.github.com/__CHOCO_PKG_OWNER_REPO__/master/__NAME__/__NAME__.png</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
