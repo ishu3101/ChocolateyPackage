@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Listary</id>
+    <title>Listary</title>
+    <version>4.02.1360</version>
+    <authors>Zhenheng Dai</authors>
+    <owners>Ishan</owners>
+    <summary>Keep files at your fingertips. Listary is a unique search utility for Windows.</summary>
+    <description>Listary is a unique search utility for Windows. Not only does it make file browsing truly flexible -- thanks to its multi-file managers support -- but the ultra-compact UI also redefines minimalism. The lightweight design doesn't stop it from providing various advanced features however, that may fit the needs of both casual and power users alike. All you have to do is just type the file name that you’re looking for, and Listary will display the search results at breakneck speed.</description>
+    <projectUrl>http://www.listary.com</projectUrl>
+    <tags>listary search find filemanager admin</tags>
+    <copyright></copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
