@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>PhraseExpress</id>
+    <title>PhraseExpress</title>
+    <version>9.1.147</version>
+    <authors>Bartels Media GmbH</authors>
+    <owners>Ishan</owners>
+    <summary> Autotext - Text Expander for Windows</summary>
+    <description>PhraseExpress eliminates repetitive typing and manages frequently used text snippets in customizable categories. Boilerplate templates can be stored together with bitmaps and RTF or HTML text formatting. The unique text prediction feature watches out for repetitive text patterns and offers to auto-complete such phrases. Smart algorithms analyze and learn your writing patterns, and suggest the most relevant ways to complete phrases and sentences. The Autotext feature allows assigning a frequently used text such as your address, your signature or a common phrase to a much shorter abbreviation. Whenever you type in the assigned abbreviation PhraseExpress will automatically replace it with the original text.</description>
+    <projectUrl>http://www.phraseexpress.com</projectUrl>
+    <tags>PhraseExpress automation clipboard-manager clipboard-history typing automated-tasks spell-checker macros text-expander macro-recorder autocomplete automation-tool text-replace text-substitution text-snippets admin</tags>
+    <copyright></copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
