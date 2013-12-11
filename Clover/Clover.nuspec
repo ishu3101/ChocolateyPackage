@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Clover</id>
+    <title>Clover</title>
+    <version>3.0.386.0</version>
+    <authors>EJIE Technology</authors>
+    <owners>Ishan</owners>
+    <summary>Clover Brings Chrome-Style Tabs to Windows Explorer.</summary>
+    <description>Wings for your Windows Explorer! Clover is an extension of the Windows Explorer, to add multi-tab functionality similar to Google Chrome browser. After Clover is installed, you will be able to open multiple folders within the same window, and you can also be able to add folder bookmarks. </description>
+    <projectUrl>http://ejie.me/</projectUrl>
+    <tags>Clover windows-explorer filemanager tab tabbed-browsing tabbed-file-manager admin</tags>
+    <copyright></copyright>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
